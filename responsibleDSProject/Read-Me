@@ -1,1 +1,5 @@
+This was my partner, Alexis, and my attempt to create a nutritional label.
 
+A nutritional label being an audit of an automated data system(ADS) that takes in data, and makes predictions about it. Our goal was to analyze how well the ADS made
+these predictions, what steps they took that were proper or not to cleaning and formatting the data, as well as spotting any discriminatory practices in the ADS. This
+analysis makes up the "nutritional label". 
